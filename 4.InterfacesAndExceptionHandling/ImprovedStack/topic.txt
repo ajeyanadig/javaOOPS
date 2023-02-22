@@ -1,0 +1,9 @@
+Interface stack with push and pop
+2 classes Static Array and Dynamic Array
+Access this using INTERFACE type reference and not just Class type like
+Interface intObj= new Class();
+
+
+Also classes in different files declared default or public are accessible 
+in the same folder. Default package much ? It works= I'm happy.
+Ignorance is bliss.
